@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>Prototype BIMI Logo</title>
+  <desc>Transparent-background vector version traced from the official Prototype logo.</desc>
+  <g fill="#B28959" fill-rule="evenodd">
+    <path d="M 309 162 L 278 154 L 174 154 L 174 366 L 213 366 L 214 304 L 278 304 L 298 300 L 309 296 L 326 286 L 342 268 L 347 258 L 351 243 L 352 224 L 349 206 L 338 184 L 326 172 Z M 213 188 L 272 187 L 288 191 L 297 196 L 307 207 L 312 222 L 311 241 L 305 254 L 294 264 L 278 270 L 214 271 Z"/><path d="M 26 23 L 18 36 L 18 475 L 23 485 L 36 493 L 475 493 L 485 488 L 493 475 L 493 380 L 473 380 L 473 470 L 470 473 L 41 473 L 38 470 L 38 41 L 41 38 L 470 38 L 473 41 L 473 135 L 493 135 L 493 36 L 488 26 L 475 18 L 36 18 Z"/>
+  </g>
+</svg>
